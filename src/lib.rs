@@ -1,3 +1,12 @@
+//! NVPXT builtins like `__syncthreads()` and `blockIdx.x`
+//!
+//! For information about *what* these intrinsics do, check:
+//! [CUDA C programming guide, section B - C language extensions][1]
+//!
+//! [1]: https://docs.nvidia.com/cuda/cuda-c-programming-guide/#c-language-extensions
+
+#![deny(missing_docs)]
+#![deny(warnings)]
 #![feature(platform_intrinsics)]
 #![no_std]
 
