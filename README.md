@@ -1,6 +1,9 @@
+[![crates.io](https://img.shields.io/crates/d/nvptx-builtins.svg)](https://crates.io/crates/nvptx-builtins)
+[![crates.io](https://img.shields.io/crates/v/nvptx-builtins.svg)](https://crates.io/crates/nvptx-builtins)
+
 # `nvptx-builtins`
 
-> NVPTX builtins like `__syncthreads` and `blockIdx.x`
+> NVPTX builtins like `__syncthreads()` and `blockIdx.x`
 
 ## License
 
