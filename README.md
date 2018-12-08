@@ -1,3 +1,11 @@
+# Status
+
+This crate has been **DEPRECATED** in favor of the `core::arch::nvptx` module.
+
+-- @japaric, 2018-12-08
+
+---
+
 [![crates.io](https://img.shields.io/crates/d/nvptx-builtins.svg)](https://crates.io/crates/nvptx-builtins)
 [![crates.io](https://img.shields.io/crates/v/nvptx-builtins.svg)](https://crates.io/crates/nvptx-builtins)
 
