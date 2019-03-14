@@ -7,6 +7,7 @@
 
 #![deny(missing_docs)]
 #![deny(warnings)]
+#![feature(link_llvm_intrinsics)]
 #![feature(platform_intrinsics)]
 #![no_std]
 
